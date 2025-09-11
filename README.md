@@ -18,5 +18,12 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+## 📖 1. Giới thiệu
+Hệ thống được xây dựng nhằm mô phỏng trò chơi Oẳn Tù Tì (Rock-Paper-Scissors) giữa hai người chơi thông qua mạng nội bộ hoặc Internet, sử dụng công nghệ Java với giao thức TCP, đảm bảo tính:
 
+Giao tiếp mạng ổn định
+
+Trải nghiệm người dùng thân thiện
+
+Mô hình client–server mở rộng được
 
