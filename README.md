@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   GAME OẲN TÙ TÌ
+   GAME OẲN TÙ TÌ TCP
 </h2>
 <div align="center">
     <p align="center">
