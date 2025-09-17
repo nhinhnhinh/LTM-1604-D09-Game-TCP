@@ -36,12 +36,19 @@ Giao diện: Java Swing
 Kết nối: TCP Socket
 Lưu trữ: File txt, csv
 IDE khuyến nghị: Eclipse IDE
-📸 3. Ảnh giao diện
+📸 📸 3. Ảnh giao diện
 
-🔑 Đăng nhập Giao diện đăng nhập
+### 🔑 Đăng nhập
+![Giao diện đăng nhập](assets/login.png)
 
-🎮 Chơi game Giao diện chơi 📂 Lịch sử Lịch sử trận đấu 🏆 Bảng xếp hạng Bảng xếp hạng
+### 🎮 Chơi game
+![Giao diện chơi](assets/game.png)
 
+### 📂 Lịch sử
+![Lịch sử trận đấu](assets/history.png)
+
+### 🏆 Bảng xếp hạng
+![Bảng xếp hạng](assets/leaderboard.png)
 🚀 4. Cài đặt & chạy
 
 Cài JDK 17+ (hoặc JDK 21).
